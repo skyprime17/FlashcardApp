@@ -77,8 +77,7 @@ var SAMPLE_FLASHCARDS = [
     {
         id: 13,
         question: 'Was ist der Unterschied zwischen VWL und BWL?',
-        answer: 'BWL:Einzelwirtschaftliche Analyse(Betrieb, Analyse von Prozessen)'+
-                'VWL:Gesamtwirtschaftliche Analysen(Staat, Ausland)'
+        answer: 'BWL:Einzelwirtschaftliche Analyse(Betrieb, Analyse von Prozessen) VWL:Gesamtwirtschaftliche Analysen(Staat, Ausland)'
     },
 
 
@@ -458,7 +457,7 @@ var SAMPLE_FLASHCARDS = [
     {
         id: 70,
         question: 'Was ist Marktsegmentierung und welche Aufteilungen gibt es?',
-        answer: '1.Soziodemographisch(Alter, Geschlecht,..) 2.Geographisch(Regionen,..) 3.Verhaltensbezogen(Einkaufsverhalten) 4.Psychograpisch(Lebensstil,..)'
+        answer: '1.Soziodemographische-(Alter, Geschlecht,..) 2.Geographische- 3.Verhaltensbezogene-(Einkaufsverhalten) 4.Psychograpische Segmentierung(Lebensstil,..)'
     },
 
 
