@@ -61,6 +61,7 @@ body {
 
 .card.flip{
     --rotate-y:180deg;
+    background-color: grey;
 }
 
 .card .front {
